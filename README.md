@@ -1,7 +1,7 @@
-# package_name
+# images-processing
 
 Description. 
-The package package_name is used to:
+The package images-processing is used to:
 	- 
 	-
 
