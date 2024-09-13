@@ -2,9 +2,14 @@
 
 Description. 
 The package images-processing is used to:
+<<<<<<< HEAD
 	- Histogram matching
 	- Structural similarity
 	- Resize images
+=======
+	- 
+	-
+>>>>>>> 051df786e99089812c1d0600d10d6f433002c970
 
 ## Installation
 
