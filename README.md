@@ -1,27 +1,28 @@
-# package_name
+# images-processing
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package images-processing is used to:
+	- Histogram matching
+	- Structural similarity
+	- Resize images
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install images-processing-elisio
 
 ```bash
-pip install package_name
+pip install images-processing-elisio
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
+from images-processing-elisio import file1_name
 file1_name.my_function()
 ```
 
 ## Author
-My_name
+Elisio Moura
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
