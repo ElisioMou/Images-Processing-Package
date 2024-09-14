@@ -9,7 +9,7 @@ with open("requirements.txt") as f:
 setup (
     name="images-processing-elisio",
     version="0.0.1",
-    author="Elisio",
+    author="Elisio Moura",
     author_email="elisiomou@gmail.com",
     description="Image Processing Package using Skimage",
     long_description=page_description,
