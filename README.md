@@ -1,11 +1,12 @@
 # images-processing-elisio
 
-Description. 
-The package images-processing is used to:
-	Processing:
-		- Histogram matching
-		- Structural similarity
-		- Resize images
+## Description. 
+The package images-processing-elisio is used to:
+
+	   - Processing:
+	   1. Histogram matching
+	   2. Structural similarity
+	   3. Resize images
 
 ## Installation
 
