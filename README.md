@@ -19,8 +19,8 @@ pip install images-processing-elisio
 ## Usage
 
 ```python
-from images-processing-elisio import file1_name
-file1_name.my_function()
+from images-processing-elisio import image1
+image1.my_function()
 ```
 
 ## Author
